@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">csci3800_hw4</string>
+    <string name="_0_00">$0.00</string>
+    <string name="total_amount">Total Amount:</string>
+    <string name="tax_amount">Tax Amount:</string>
+    <string name="_0_002">$0.00</string>
+    <string name="tip_percentage">Tip Percentage:</string>
+    <string name="_0">0%</string>
+    <string name="_5">5%</string>
+    <string name="_10">10%</string>
+    <string name="_20">20%</string>
+</resources>
